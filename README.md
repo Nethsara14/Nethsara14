@@ -45,7 +45,7 @@
 <p align="left">
 <a href="https://www.youtube.com/channel/UC1ILIUF2Icz14Ene5pEq75g" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="CodeGen N3xt" /></a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sasindu Nethsara" /></a>
-<a href="https://nethsara14.github.io/Dev-N3thsara--Portfolio/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" /></a>
+<a href="https://nethsara14.github.io/Dev-N3thsara---Portfolio/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" /></a>
 <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
 
