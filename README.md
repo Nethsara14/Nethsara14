@@ -34,7 +34,15 @@
 
 
 ---
+### Languages and Tools:
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=android,angular,arduino,aws,bootstrap,c,cpp,cs,css,django,dotnet,figma,firebase,flutter,gcp,git,go,html,java,js,kotlin,kubernetes,laravel,linux,mongodb,mysql,nodejs,oracle,php,python,react,spring,swift,tensorflow,unity&perline=15" />
+  </a>
+</p>
+
+---
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,vscode,git,linux,github" />
