@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?Nethsara14)
+![Profile Views](https://komarev.com/ghpvc/?username=Nethsara14&color=blue&style=flat-square&label=PROFILE+VIEWS)
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Nethsara14&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Undergraduate%20Software%20Engineer&descAlignY=60)
