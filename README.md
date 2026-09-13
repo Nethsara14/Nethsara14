@@ -14,7 +14,7 @@
 # 👋 Hi, I'm Sasindu Nethsara!
 
 ### 🎓 Education
- **BSc (Hons) Full Stack Software Engineering (2nd Year)** * *Birmingham City University (UK) | Java Institute*
+ **BSc (Hons) Full Stack Software Engineering (1st Year)***
 
 ### 💻 Current Focus & Experience
  🚀 **Full Stack Web Development:** Actively building projects to gain industry-level experience.
