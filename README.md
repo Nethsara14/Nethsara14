@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-I am a versatile **Full-Stack Software Engineering Undergraduate** from Sri Lanka 🇱🇰
+I am a versatile **Full-Stack Software Engineering Undergraduate** from Sri Lanka ,Matara
 
 - 🔭 I’m currently working on **Stock & Sales Monitoring Systems & E-commerce web apps**
 - 🌱 I’m currently learning **AI Integration and Cyber Security**
