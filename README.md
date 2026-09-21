@@ -1,4 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Nethsara14)
+![Visitors](https://komarev.com/ghpvc/?username=Nethsara14&label=VISITORS&color=22c55e&style=flat)
 
 <div align="center">
 
@@ -77,13 +78,6 @@ Driven by solving complex technical challenges and translating real-world proble
 | **Stock & Sales Monitor** | PHP, MySQL, JS, Tailwind | Customized system for inventory tracking & sales reporting | [Source Code](https://github.com/Nethsara14) \| [Live Demo](#) |
 | **E-Commerce Web App** | Full-Stack, REST APIs | Modern e-commerce solution with product catalog & checkout | [Source Code](https://github.com/Nethsara14) \| [Live Demo](#) |
 | **FOSS Community Portal** | HTML, CSS, JS, Open Source | Community platform for open-source learners & contributors | [Source Code](https://github.com/Nethsara14) \| [Live Demo](#) |
-
-
-<div align="center">
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?pageId=nethsara14.github.profile&label=VISITORS&labelColor=23272d&countColor=22c55e&style=flat)](https://visitorbadge.io)
-
-</div>
 
 
 
