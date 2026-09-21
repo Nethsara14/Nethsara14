@@ -76,6 +76,10 @@ Driven by solving complex technical challenges and translating real-world proble
 
 
 
+<div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nethsara14&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
+
+</div>
 
 
