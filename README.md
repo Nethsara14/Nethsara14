@@ -32,6 +32,12 @@ Driven by solving complex technical challenges and translating real-world proble
 - ⚡ **Fun Fact:** *Gaining experience one project at a time!*
 
 ---
+<br><br>
+
+<a href="https://github.com/nethsara14/nethsara14/blob/output/snake.svg">
+  <img src="https://github.com/nethsara14/nethsara14/raw/output/snake.svg" alt="Snake animation" />
+</a>
+
 
 <div align="center">
 
@@ -63,21 +69,13 @@ Driven by solving complex technical challenges and translating real-world proble
 
 ✨ <i>Gaining experience one project at a time.</i>
 
-<br><br>
 
-<a href="https://github.com/nethsara14/nethsara14/blob/output/snake.svg">
-  <img src="https://github.com/nethsara14/nethsara14/raw/output/snake.svg" alt="Snake animation" />
-</a>
 
 </div>
 
-### 🚀 Featured Projects
 
-| Project | Tech Stack | Description | Links |
-| :--- | :--- | :--- | :--- |
-| **Stock & Sales Monitor** | PHP, MySQL, JS, Tailwind | Customized system for inventory tracking & sales reporting | [Source Code](https://github.com/Nethsara14) \| [Live Demo](#) |
-| **E-Commerce Web App** | Full-Stack, REST APIs | Modern e-commerce solution with product catalog & checkout | [Source Code](https://github.com/Nethsara14) \| [Live Demo](#) |
-| **FOSS Community Portal** | HTML, CSS, JS, Open Source | Community platform for open-source learners & contributors | [Source Code](https://github.com/Nethsara14) \| [Live Demo](#) |
+
+
 
 
 
