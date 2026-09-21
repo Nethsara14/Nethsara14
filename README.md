@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-I am a versatile **Full-Stack Software Engineering Undergraduate** from Matara, Sri Lanka   
+Hi, I'm **Sasindu Nethsara Karanayaka**, a versatile Full-Stack Software Engineering Undergraduate from Matara, Sri Lanka 🇱🇰  
 Driven by solving complex technical challenges and translating real-world problems into clean, scalable code with an emphasis on performance and clean architecture.
 
 - 🔭 **Building & Innovating:** Built diverse websites, web applications, and SaaS products, while constantly exploring modern tools to create innovative solutions.
