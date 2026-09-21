@@ -12,14 +12,14 @@
 
 ### 👨‍💻 About Me
 
-I am a versatile **Full-Stack Software Engineering Undergraduate** from Matara, Sri Lanka 🇱🇰
+I am a versatile **Full-Stack Software Engineering Undergraduate** from Matara, Sri Lanka   
+Driven by solving complex technical challenges and translating real-world problems into clean, scalable code with an emphasis on performance and clean architecture.
 
 - 🔭 **Building & Innovating:** Built diverse websites, web applications, and SaaS products, while constantly exploring modern tools to create innovative solutions.
 - 🌱 **Currently Exploring:** Deeply passionate about **Cybersecurity** and eager to master **Operating Systems (OS)**.
 - 🌐 **Community & Leadership:** **Founding Member & Open Source Contributor** at **JIAT FOSS Community**.
 - 👯 **Collaboration:** Looking to collaborate on **Open Source & Web Development Projects**.
 - 💼 **Career Focus:** Actively open to **Software Engineering Internships** and exciting tech collaborations.
-- 💬 **Ask Me About:** **Java, JavaScript, PHP, Tailwind CSS, MySQL, OOP & Git**.
 - 🎥 **Content Creation:** I create tech content & tutorials on YouTube at [CodeGen N3xt](https://www.youtube.com/channel/UC1ILIUF2Icz14Ene5pEq75g).
 - 📫 **How to Reach Me:** Let's connect on [LinkedIn](https://linkedin.com/in/sasindu-nethsara-karanayaka-se) or explore my [Portfolio](https://devnethsara.com/).
 - ⚡ **Fun Fact:** *Gaining experience one project at a time!*
