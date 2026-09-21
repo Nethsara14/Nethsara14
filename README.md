@@ -27,7 +27,6 @@ Driven by solving complex technical challenges and translating real-world proble
 - 🌐 **Community & Leadership:** **Founding Member & Open Source Contributor** at **JIAT FOSS Community**.
 - 👯 **Collaboration:** Looking to collaborate on **Open Source & Web Development Projects**.
 - 💼 **Career Focus:** Actively open to **Software Engineering Internships** and exciting tech collaborations.
-- 🎥 **Content Creation:** I create tech content & tutorials on YouTube at [CodeGen N3xt](https://www.youtube.com/channel/UC1ILIUF2Icz14Ene5pEq75g).
 - 📫 **How to Reach Me:** Let's connect on [LinkedIn](https://linkedin.com/in/sasindu-nethsara-karanayaka-se) or explore my [Portfolio](https://devnethsara.com/).
 - ⚡ **Fun Fact:** *Gaining experience one project at a time!*
 
@@ -61,6 +60,7 @@ Driven by solving complex technical challenges and translating real-world proble
 
 <p align="center">
   <a href="https://linkedin.com/in/sasindu-nethsara-karanayaka-se" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sasindu Nethsara" /></a>
+  <a href="https://wa.me/94776823595" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="https://devnethsara.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" /></a>
   <a href="https://facebook.com/N3tha14" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
