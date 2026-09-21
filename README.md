@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Nethsara14)
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sasindu_Nethsara_Karanayaka&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Undergraduate%20Software%20Engineer&descAlignY=60)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Undergraduate%20Software%20Engineer&descAlignY=60)
 
 ---
 
