@@ -6,6 +6,12 @@
 
 ---
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=550&lines=Full-Stack+Software+Engineer;Open+Source+Contributor;Passionate+about+Cybersecurity" alt="Typing SVG" />
+</a>
+
+---
+
 </div>
 
 ---
@@ -36,9 +42,18 @@ Driven by solving complex technical challenges and translating real-world proble
 
 ---
 
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nethsara14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
 ### 📬 Connect with Me
 
 <p align="center">
+  <a href="https://www.youtube.com/channel/UC1ILIUF2Icz14Ene5pEq75g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="CodeGen N3xt" /></a>
   <a href="https://linkedin.com/in/sasindu-nethsara-karanayaka-se" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sasindu Nethsara" /></a>
   <a href="https://devnethsara.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" /></a>
   <a href="https://facebook.com/N3tha14" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
@@ -55,3 +70,21 @@ Driven by solving complex technical challenges and translating real-world proble
 </a>
 
 </div>
+
+### 🚀 Featured Projects
+
+| Project | Tech Stack | Description | Links |
+| :--- | :--- | :--- | :--- |
+| **Stock & Sales Monitor** | PHP, MySQL, JS, Tailwind | Customized system for inventory tracking & sales reporting | [Source Code](https://github.com/Nethsara14) \| [Live Demo](#) |
+| **E-Commerce Web App** | Full-Stack, REST APIs | Modern e-commerce solution with product catalog & checkout | [Source Code](https://github.com/Nethsara14) \| [Live Demo](#) |
+| **FOSS Community Portal** | HTML, CSS, JS, Open Source | Community platform for open-source learners & contributors | [Source Code](https://github.com/Nethsara14) \| [Live Demo](#) |
+
+
+<div align="center">
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?pageId=nethsara14.github.profile&label=VISITORS&labelColor=23272d&countColor=22c55e&style=flat)](https://visitorbadge.io)
+
+</div>
+
+
+
